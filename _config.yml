@@ -1,7 +1,7 @@
 name: elderdc
 favicon: null
-layout_spectrum: 0.9505395132582635
-typography_spectrum: 0.10141179990023375
+layout_spectrum: 1
+typography_spectrum: 1
 cta:
   domain: null
   bucket: null
