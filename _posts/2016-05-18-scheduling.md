@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: SCHEDULING
-datePublished: '2016-05-18T23:46:06.563Z'
-dateModified: '2016-05-18T23:44:44.608Z'
+datePublished: '2016-05-18T23:47:56.875Z'
+dateModified: '2016-05-18T23:47:10.758Z'
 title: ''
 author: []
 sourcePath: _posts/2016-05-18-scheduling.md
