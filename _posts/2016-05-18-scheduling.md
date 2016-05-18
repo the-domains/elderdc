@@ -5,14 +5,14 @@ inNav: true
 inLanguage: null
 keywords: []
 description: SCHEDULING
-datePublished: '2016-05-18T23:43:58.291Z'
-dateModified: '2016-05-18T23:43:39.180Z'
+datePublished: '2016-05-18T23:46:06.563Z'
+dateModified: '2016-05-18T23:44:44.608Z'
 title: ''
 author: []
+sourcePath: _posts/2016-05-18-scheduling.md
 authors: []
 publisher: null
 starred: false
-sourcePath: _posts/2016-05-18-scheduling.md
 url: scheduling/index.html
 _type: WebPage
 
